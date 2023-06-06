@@ -13,9 +13,9 @@ Address: Lutonbaan 9, Rotterdam
 Please register for this two day Hackathon at Eventbrite! This is a hybrid event but fysical joining is preferred!
  
 For more info please see:
-•	RHIA website: https://stichtingrhia.nl/digital-airports-as-a-solution/
-•	DevPost https://id-wallet-biometrics-aviation.devpost.com/
-•	EventBrite: https://www.eventbrite.co.uk/e/tickets-airport-technology-lab-atl-showcase-and-hackathon-event-575726412197
+RHIA website: https://stichtingrhia.nl/digital-airports-as-a-solution/
+DevPost https://id-wallet-biometrics-aviation.devpost.com/
+EventBrite: https://www.eventbrite.co.uk/e/tickets-airport-technology-lab-atl-showcase-and-hackathon-event-575726412197
  
 Please send this invitation to potential hacker teams and individuals in your network!
  
