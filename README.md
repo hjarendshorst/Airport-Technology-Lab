@@ -33,13 +33,15 @@ relevant specifications:
 
 relevant open source repositories:
 
-* https://github.com/Sphereon-Opensource/ssi-sdk (Sphereon, Typescript)  
-* https://github.com/microsoft/VerifiableCredential-SDK-Android (Microsoft, Kotlin) 
-* https://github.com/microsoft/VerifiableCredential-SDK-iOS (Microsoft, Swift)  
-* https://github.com/spruceid/oidc4vci-rs (Spruce, Rust) 
-* https://github.com/spruceid/oidc (Spruce, OID4VC)
-* https://github.com/impierce/openid4vc (Impierce)
-* https://github.com/mosip/tuvali (MOSIP, OpenID4VP over BLE)
+# OpenID 4 VC Implementations
+
+* Typescript (Sphereon): https://github.com/Sphereon-Opensource/ssi-sdk (, )  
+* Kotlin/Android (Microsoft): https://github.com/microsoft/VerifiableCredential-SDK-Android 
+* Swift/iOS (Microsoft): https://github.com/microsoft/VerifiableCredential-SDK-iOS  
+* Rust (Spruce) - OID4VCI: https://github.com/spruceid/oidc4vci-rs 
+* Rust (Spruce) - OID4VP: https://github.com/spruceid/oidc
+* Rust (Impierce): https://github.com/impierce/openid4vc 
+* Rust (MOSIP) - OpenID4VP over BLE): https://github.com/mosip/tuvali 
 
 # SD-JWT Implementations
 
