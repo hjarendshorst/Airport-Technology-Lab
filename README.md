@@ -13,22 +13,21 @@ Address: Lutonbaan 9, Rotterdam
 Please register for this two day Hackathon at Eventbrite! This is a hybrid event but fysical joining is preferred!
  
 For more info please see:
-RHIA website: https://stichtingrhia.nl/digital-airports-as-a-solution/
-DevPost https://id-wallet-biometrics-aviation.devpost.com/
-EventBrite: https://www.eventbrite.co.uk/e/tickets-airport-technology-lab-atl-showcase-and-hackathon-event-575726412197
+
+* RHIA website: https://stichtingrhia.nl/digital-airports-as-a-solution/
+* DevPost https://id-wallet-biometrics-aviation.devpost.com/
+* EventBrite: https://www.eventbrite.co.uk/e/tickets-airport-technology-lab-atl-showcase-and-hackathon-event-575726412197
  
 Please send this invitation to potential hacker teams and individuals in your network!
  
 Looking forward!
 
-
-
 relevant repositories:
 
-https://github.com/Sphereon-Opensource/ssi-sdk (Typescript) Microsoft 
-https://github.com/microsoft/VerifiableCredential-SDK-Android (Kotlin) 
-https://github.com/microsoft/VerifiableCredential-SDK-iOS (Swift) Spruce 
-https://github.com/spruceid/oidc4vci-rs (Rust) 
-https://github.com/spruceid/oidc
-https://github.com/mosip/tuvali
-https://github.com/impierce/openid4vc
+* https://github.com/Sphereon-Opensource/ssi-sdk (Sphereon, Typescript)  
+* https://github.com/microsoft/VerifiableCredential-SDK-Android (Microsoft, Kotlin) 
+* https://github.com/microsoft/VerifiableCredential-SDK-iOS (Microsoft, Swift)  
+* https://github.com/spruceid/oidc4vci-rs (Spruce, Rust) 
+* https://github.com/spruceid/oidc (Spruce, OID4VC)
+* https://github.com/impierce/openid4vc (Impierce)
+* https://github.com/mosip/tuvali (MOSIP, OpenID4VP over BLE)
