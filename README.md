@@ -25,10 +25,11 @@ Looking forward!
 relevant specifications:
 
 * [OpenID4VC High Assurance Interoperability Profile with SD-JWT VC](https://vcstuff.github.io/oid4vc-haip-sd-jwt-vc/draft-oid4vc-haip-sd-jwt-vc.html)
-* [OpenID 4 Verfifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
+* [OpenID 4 Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
 * [OpenID 4 Verifiable Credential Issuance](https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html)
 * [OpenID Self-Issued OP v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
 * [OpenID 4 Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html)
+* [SD-JWT](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-04.html)
 * [SD-JWT VC](https://vcstuff.github.io/draft-terbu-sd-jwt-vc/draft-terbu-sd-jwt-vc.html)
 
 relevant open source repositories:
