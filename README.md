@@ -22,7 +22,16 @@ Please send this invitation to potential hacker teams and individuals in your ne
  
 Looking forward!
 
-relevant repositories:
+relevant specifications:
+
+* [OpenID4VC High Assurance Interoperability Profile with SD-JWT VC](https://vcstuff.github.io/oid4vc-haip-sd-jwt-vc/draft-oid4vc-haip-sd-jwt-vc.html)
+* [OpenID 4 Verfifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
+* [OpenID 4 Verifiable Credential Issuance)(https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html)
+* [OpenID Self-Issued OP v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
+* [OpenID 4 Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html)
+* [SD-JWT VC](https://vcstuff.github.io/draft-terbu-sd-jwt-vc/draft-terbu-sd-jwt-vc.html)
+
+relevant open source repositories:
 
 * https://github.com/Sphereon-Opensource/ssi-sdk (Sphereon, Typescript)  
 * https://github.com/microsoft/VerifiableCredential-SDK-Android (Microsoft, Kotlin) 
@@ -31,3 +40,13 @@ relevant repositories:
 * https://github.com/spruceid/oidc (Spruce, OID4VC)
 * https://github.com/impierce/openid4vc (Impierce)
 * https://github.com/mosip/tuvali (MOSIP, OpenID4VP over BLE)
+
+# SD-JWT Implementations
+
+ * Python: [Reference/Demo Implementation](https://github.com/danielfett/sd-jwt)
+ * Kotlin: [SD-JWT-Kotlin (OWF)]([https://github.com/IDunion/SD-JWT-Kotlin](https://github.com/openwallet-foundation-labs/SD-JWT-Kotlin))
+ * Rust: [sd_jwt](https://github.com/kushaldas/sd_jwt)
+ * TypeScript: [sd-jwt](https://github.com/christianpaquin/sd-jwt)
+ * TypeScript: [sd-jwt-ts](https://github.com/chike0905/sd-jwt-ts)
+ * Java: [Java Library for SD-JWT (Authlete)](https://github.com/authlete/sd-jwt)
+ * Go: [sd-jwt (TBD)](https://github.com/TBD54566975/ssi-sdk/tree/main/sd-jwt)
